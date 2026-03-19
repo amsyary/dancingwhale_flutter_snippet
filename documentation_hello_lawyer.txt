@@ -2,7 +2,7 @@ Hello, thank you for purchasing our source code! We're thrilled that you've chos
 We hope you find it helpful and look forward to hearing about your project's progress
 
 Here is the Online Documentation 
-https://hello-lawyer-doc.netlify.app/docs/intro/
+https://hello-lawyer-doc.netlify.app/#/docs/intro/
 
 and for offline documentation you can open folder documentation/index.html
 
