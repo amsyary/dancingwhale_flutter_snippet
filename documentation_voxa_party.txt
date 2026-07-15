@@ -6,7 +6,7 @@ We hope you find it helpful and look forward to hearing about your project's pro
 
 Here is the Online Documentation 
 
-https://voxaparty.netlify.app/#/docs/intro/
+https://voxaparty-documentation.netlify.app/
 
 
 
